@@ -1,0 +1,14 @@
+.game {
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+.game-board {
+    margin-right: 5rem;
+}
+
+.game-info button  {
+        font-size: 1.5rem;
+        margin: 2px;
+}

@@ -1,0 +1,11 @@
+.Square {
+    height: 5rem;
+    width: 5rem;
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding: 20px;
+    margin: 4px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: cadetblue;
+}
